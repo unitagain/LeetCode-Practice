@@ -2,6 +2,34 @@
 LeetCode Practice
 2025/10/13 最长回文子串：        
 https://leetcode.cn/problems/longest-palindromic-substring/description/?envType=study-plan-v2&envId=top-interview-150
+## 数组 ##
+## 矩阵 ##
+## 链表 ##
+## 哈希表 ##
+## 双指针 ##
+## 滑动窗口 ##
+## 二叉树 ##
+## 回溯算法 ##
+## 动态规划 ##
+1.入门
+2.网格图DP
+3.背包
+4.线性DP
+  (2025/10/21)https://leetcode.cn/problems/delete-operation-for-two-strings/description/
+  (2025/10/21)https://leetcode.cn/problems/longest-common-subsequence/description/
+5.划分型DP
+6.状态机DP
+7.其他线性DP
+8.区间DP
+9.状态压缩DP
+10.数位DP
+11.优化DP
+12.树形DP
+13.图DP
+14.博弈DP
+15.概率DP
+## 图论 ##
+
 2025/10/15 动态规划/背包/01背包：
 https://leetcode.cn/problems/target-sum/solutions/2119041/jiao-ni-yi-bu-bu-si-kao-dong-tai-gui-hua-s1cx/
 https://leetcode.cn/problems/partition-equal-subset-sum/solutions/2785266/0-1-bei-bao-cong-ji-yi-hua-sou-suo-dao-d-ev76/
