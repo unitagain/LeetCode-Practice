@@ -21,6 +21,8 @@ https://leetcode.cn/problems/longest-palindromic-substring/description/?envType=
   (2025/10/22)https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/
   (2025/10/22)https://leetcode.cn/problems/word-break/description/
 6.状态机DP
+  https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/submissions/673055443/
+  https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/submissions/673055662/
 7.其他线性DP
 8.区间DP
 9.状态压缩DP
