@@ -18,6 +18,8 @@ https://leetcode.cn/problems/longest-palindromic-substring/description/?envType=
   (2025/10/21)https://leetcode.cn/problems/delete-operation-for-two-strings/description/
   (2025/10/21)https://leetcode.cn/problems/longest-common-subsequence/description/
 5.划分型DP
+  (2025/10/22)https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/
+  (2025/10/22)https://leetcode.cn/problems/word-break/description/
 6.状态机DP
 7.其他线性DP
 8.区间DP
