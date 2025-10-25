@@ -24,6 +24,8 @@ https://leetcode.cn/problems/longest-palindromic-substring/description/?envType=
   https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/submissions/673055443/
   https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/submissions/673055662/
 7.其他线性DP
+  https://leetcode.cn/problems/taking-maximum-energy-from-the-mystic-dungeon/description/
+  https://leetcode.cn/problems/minimum-number-of-coins-for-fruits/description/
 8.区间DP
 9.状态压缩DP
 10.数位DP
