@@ -36,9 +36,8 @@ https://leetcode.cn/problems/longest-palindromic-substring/description/?envType=
 15.概率DP
 ## 图论 ##
 
-2025/10/27 斐波那契数：https://leetcode.cn/problems/fibonacci-number/description/
-           爬楼梯：https://leetcode.cn/problems/climbing-stairs/description/
 
+## 日志 ##
 2025/10/15 动态规划/背包/01背包：
 https://leetcode.cn/problems/target-sum/solutions/2119041/jiao-ni-yi-bu-bu-si-kao-dong-tai-gui-hua-s1cx/
 https://leetcode.cn/problems/partition-equal-subset-sum/solutions/2785266/0-1-bei-bao-cong-ji-yi-hua-sou-suo-dao-d-ev76/
@@ -52,3 +51,9 @@ https://leetcode.cn/problems/find-the-original-typed-string-ii/submissions/67169
 2025/10/20 动态规划/背包/分组背包：
 https://leetcode.cn/problems/minimize-the-difference-between-target-and-chosen-elements/description/
 https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/description/
+2025/10/27 
+斐波那契数：https://leetcode.cn/problems/fibonacci-number/description/
+爬楼梯：https://leetcode.cn/problems/climbing-stairs/description/
+2025/10/28 
+使用最小花费爬楼梯：https://leetcode.cn/problems/min-cost-climbing-stairs/description/
+不同路径：https://leetcode.cn/problems/unique-paths/description/
