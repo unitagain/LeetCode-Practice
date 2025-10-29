@@ -57,3 +57,6 @@ https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/description/
 2025/10/28 
 使用最小花费爬楼梯：https://leetcode.cn/problems/min-cost-climbing-stairs/description/
 不同路径：https://leetcode.cn/problems/unique-paths/description/
+2025/10/29
+不同路径II：https://leetcode.cn/problems/unique-paths-ii/description/
+整数拆分：https://leetcode.cn/problems/integer-break/description/
