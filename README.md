@@ -60,3 +60,6 @@ https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/description/
 2025/10/29
 不同路径II：https://leetcode.cn/problems/unique-paths-ii/description/
 整数拆分：https://leetcode.cn/problems/integer-break/description/
+2025/10/30
+不同的二叉搜索树：https://leetcode.cn/problems/unique-binary-search-trees/description/
+分割等和子集：https://leetcode.cn/problems/partition-equal-subset-sum/description/
