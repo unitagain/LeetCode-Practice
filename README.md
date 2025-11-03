@@ -63,3 +63,6 @@ https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/description/
 2025/10/30
 不同的二叉搜索树：https://leetcode.cn/problems/unique-binary-search-trees/description/
 分割等和子集：https://leetcode.cn/problems/partition-equal-subset-sum/description/
+2025/11/3
+最后一块石头的重量：https://leetcode.cn/problems/last-stone-weight-ii/description/
+目标和：https://leetcode.cn/problems/target-sum/description/
