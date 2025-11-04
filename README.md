@@ -1,3 +1,5 @@
+
+
 # LeetCode-Practice
 LeetCode Practice
 2025/10/13 最长回文子串：        
@@ -66,3 +68,6 @@ https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/description/
 2025/11/3
 最后一块石头的重量：https://leetcode.cn/problems/last-stone-weight-ii/description/
 目标和：https://leetcode.cn/problems/target-sum/description/
+2025/11/4
+一和零：https://leetcode.cn/problems/ones-and-zeroes/description/
+零钱兑换II:https://leetcode.cn/problems/coin-change-ii/description/
