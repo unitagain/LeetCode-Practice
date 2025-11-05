@@ -71,3 +71,6 @@ https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/description/
 2025/11/4
 一和零：https://leetcode.cn/problems/ones-and-zeroes/description/
 零钱兑换II:https://leetcode.cn/problems/coin-change-ii/description/
+2025/11/5
+组合总和：https://leetcode.cn/problems/combination-sum-iv/description/
+零钱兑换：https://leetcode.cn/problems/coin-change/description/
