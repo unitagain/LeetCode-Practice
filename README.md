@@ -74,3 +74,6 @@ https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/description/
 2025/11/5
 组合总和：https://leetcode.cn/problems/combination-sum-iv/description/
 零钱兑换：https://leetcode.cn/problems/coin-change/description/
+2025/11/6
+完全平方数:https://leetcode.cn/problems/perfect-squares/description/
+单词划分：https://leetcode.cn/problems/word-break/description/
