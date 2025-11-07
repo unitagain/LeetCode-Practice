@@ -77,3 +77,6 @@ https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/description/
 2025/11/6
 完全平方数:https://leetcode.cn/problems/perfect-squares/description/
 单词划分：https://leetcode.cn/problems/word-break/description/
+2025/11/7
+打家劫舍：https://leetcode.cn/problems/house-robber/description/
+打家劫舍II:https://leetcode.cn/problems/house-robber-ii/description/
